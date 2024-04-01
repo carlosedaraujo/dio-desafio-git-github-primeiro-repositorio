@@ -1,0 +1,7 @@
+Arquivo criado para anotar pontos importantes do bootcamp
+
+- git desktop Windows 
+    https://git-scm.com/download/win
+
+- GUI Clients
+    https://git-scm.com/downloads/guis
